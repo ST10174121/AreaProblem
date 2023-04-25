@@ -4,3 +4,4 @@ Lihle Phikiso
 We chose Rectangle
 ## Calculating the area of The shape
 Base*Height
+results
